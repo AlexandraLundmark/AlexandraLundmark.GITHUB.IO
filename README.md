@@ -2,12 +2,16 @@
 
 My name is AlexandraLundmark.
 
-In the course Computer Science for Mathematicians at Stockholms University we have worked with GitHub. In GitHub we co-operate with different versions of code when we do decelopment in the programminglanguage Pyton. 
-But we have also created a small web pages - This is my first own website ever. 
+In the course Computer Science for Mathematicians at Stockholms University we have worked with GitHub. In GitHub students co-operate with different versions of code when we do decelopment in the programming language Pyton. 
+
+Using GitHub I have made this homepage as a test.  
 
 
 
 
 ```
- [Testlänk till Naturskyddeföreningen.](https://naturskyddsforeningen.se/)```
+You can even [link to Google!](http://google.com)
+
+ [testlänk till Naturskyddeföreningen.](https://naturskyddsforeningen.se/)
+```
 
