@@ -24,7 +24,7 @@ In the course Computer Science for Mathematicians at Stockholms University we ha
 - [Svenska för baby](http://www.pressreader.com/sweden/tidningen-%C3%A5rsta-enskede/20151121/textview)
 - [Internationellt kvinnocafé](https://flipflashpages.uniflip.com/3/100504/362441/pub/html5.html#page/6)
 
-#### I enjoy doing activitys with family and friends, here are some favourites:
+### I enjoy doing activitys with family and friends, here are some favourites:
 - [Hagsätra kyrkas minikör](https://www.svenskakyrkan.se/vantor/oppen-minikor-for-barn-3-7-ar)
 - [Friidrott för de minsta](http://www.xn--rgsvedsif-52a.se/start/?ID=153222)
 
