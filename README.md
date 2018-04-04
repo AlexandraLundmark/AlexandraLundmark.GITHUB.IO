@@ -4,7 +4,7 @@ My name is Alexandra Lundmark.
 
 
 This site was built by me using [GitHub Pages.](https://pages.github.com/)
-In the course Computer Science for Mathematicians at Stockholms University we have worked with GitHub. In GitHub we co-operate writing different versions of code when we do decelopment in the programming language Pyton. 
+In the course Computer Science for Mathematicians at Stockholms University we have worked with GitHub. In GitHub we co-operate while we are writing in different versions of code. We are developing in the programming language Python. 
 
 
 
@@ -13,7 +13,7 @@ In the course Computer Science for Mathematicians at Stockholms University we ha
 
 - I have worked as a high school teacher, *gymnasielärare*, in mathematics and science since the spring of 2009.
 
-- I have two children born 2013 and 2015 and I had a parental leave of one year with each of them. 
+- I have two children born in 2013 and 2015 and I had a parental leave of one year with each of them. 
 
 - This semester I study Programming Techniques (7.5 hp) and Computer Science for Mathematicians (7.5 hp) at Stockholms University. 
 
