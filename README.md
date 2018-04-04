@@ -4,7 +4,7 @@ My name is Alexandra Lundmark.
 
 
 This site was built by me using [GitHub Pages.](https://pages.github.com/)
-In the course Computer Science for Mathematicians at Stockholms University we have worked with GitHub. In GitHub we co-operate while we are writing in different versions of code. We are developing in the programming language Python. 
+In the course Computer Science for Mathematicians at Stockholms University we have worked with GitHub. In GitHub we co-operate while we are writing different versions of code. We are developing in the programming language Python. 
 
 
 
