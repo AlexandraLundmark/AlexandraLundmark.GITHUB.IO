@@ -27,6 +27,6 @@ This site was built by me using [GitHub Pages.](https://pages.github.com/)
 ### I enjoy doing activitys with family and friends, here are some favourites:
 - [Hagsätra church's children activities](https://www.svenskakyrkan.se/vantor/barn-unga-och-konfirmation)
 - [Athletics for children](http://www.xn--rgsvedsif-52a.se/start/?ID=153222)
-- [Rågsved's soccer field and parkour] (http://www.stockholm.se/-/Serviceenhetsdetaljer/?enhet=88f773c8ce7242d6b23d67c5d6ca0448)
+- [Rågsved's soccer field and parkour](http://www.stockholm.se/-/Serviceenhetsdetaljer/?enhet=88f773c8ce7242d6b23d67c5d6ca0448)
 
 
