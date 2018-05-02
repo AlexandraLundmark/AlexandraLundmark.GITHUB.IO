@@ -19,7 +19,7 @@ This site was built by me using [GitHub Pages.](https://pages.github.com/)
 
 - In the evenings I prefer to watch a good zombie movie/series with my husband or work out at the gym. 
 
-- My Swedish teacher's certificate, issued by the Swedish National Agency for Education, includes teaching in the following courses: Biologi (åk 3-9, gymnasiet), Fysik (åk 3-9), Hållbart samhälle (gymnasiet), Matematik (åk 3-9, gymnasiet), Naturkunskap (gymnasiet), Kemi (åk 3-6), Naturvetenskaplig specialisering (gymnasiet) samt Naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning (gymnasiet).
+- My Swedish teacher's certificate, issued by the Swedish National Agency for Education, includes teaching in the following Swedish mathematics and science courses: *Biologi (åk 3-9, gymnasiet), Fysik (åk 3-9), Hållbart samhälle (gymnasiet), Matematik (åk 3-9, gymnasiet), Naturkunskap (gymnasiet), Kemi (åk 3-6), Naturvetenskaplig specialisering (gymnasiet)* and *Naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning (gymnasiet)*.
 
 
 ### Here are some Swedish articles from various integration projects that I participated in during my parental leave:
