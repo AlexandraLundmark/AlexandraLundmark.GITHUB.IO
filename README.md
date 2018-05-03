@@ -17,7 +17,6 @@ This site was built by me using [GitHub Pages.](https://pages.github.com/)
 
 - In the spring of 2018 I studied Programming Techniques at Stockholms University. 
 
-- In the evenings I prefer to watch a good zombie movie/series with my husband or work out at the gym. 
 
 - My Swedish teacher's certificate, issued by the Swedish National Agency for Education, includes teaching in the following Swedish mathematics and science courses: *Biologi (åk 3-9, gymnasiet), Fysik (åk 3-9), Hållbart samhälle (gymnasiet), Matematik (åk 3-9, gymnasiet), Naturkunskap (gymnasiet), Kemi (åk 3-6), Naturvetenskaplig specialisering (gymnasiet)* and *Naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning (gymnasiet)*.
 
@@ -30,5 +29,6 @@ This site was built by me using [GitHub Pages.](https://pages.github.com/)
 - [Hagsätra church's children activities](https://www.svenskakyrkan.se/vantor/barn-unga-och-konfirmation)
 - [Athletics for children](http://www.xn--rgsvedsif-52a.se/start/?ID=153222)
 - [Rågsved's soccer field and parkour](http://www.stockholm.se/-/Serviceenhetsdetaljer/?enhet=88f773c8ce7242d6b23d67c5d6ca0448)
+- [Fitness24seven](https://se.fitness24seven.com/sv/vara-gym/stockholm-hogdalen)
 
 
