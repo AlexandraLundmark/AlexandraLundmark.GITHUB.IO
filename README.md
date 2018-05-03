@@ -13,9 +13,9 @@ This site was built by me using [GitHub Pages.](https://pages.github.com/)
 
 - I have worked as a high school teacher, *gymnasielärare*, in mathematics and science since the spring of 2009.
 
-- I have two children born in 2013 and 2015 and I had a parental leave of one year with each of them. 
+- I have two children born in 2013 and 2015 and I had a parental leave of one year with each one of them. 
 
-- This semester I study Programming Techniques at Stockholms University. 
+- In the spring of 2018 I studied Programming Techniques at Stockholms University. 
 
 - In the evenings I prefer to watch a good zombie movie/series with my husband or work out at the gym. 
 
